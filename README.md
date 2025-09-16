@@ -9,6 +9,8 @@ NIMO is a Python library to realize a closed loop of robotic experiments and art
 
 # Document
 
+**In this document, "nimo" should be replaced by "nimopy" and used accordingly.**
+
 - [English](https://nims-da.github.io/nimo/en/)
 - [日本語](https://nims-da.github.io/nimo/ja/)
 
